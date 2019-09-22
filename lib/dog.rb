@@ -17,15 +17,4 @@ class Dog
     @@all.each do |name|
   end
 end
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 end
